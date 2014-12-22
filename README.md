@@ -7,5 +7,5 @@ An windows local test program. For command line
 It work like the following command in unix:
 
 	* >mkfifo pipe
-	* >client < pipe | server > pipe
+	* >client.exe < pipe | server.exe > pipe
 

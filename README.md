@@ -2,10 +2,10 @@ win-pipe
 ========
 An windows local test program. For command line
 
-	* >Pipe.exe client.exe server.exe
+	>Pipe.exe client.exe server.exe
 
 It work like the following command in unix:
 
-	* >mkfifo pipe
-	* >client.exe < pipe | server.exe > pipe
+	>mkfifo pipe
+	>client.exe < pipe | server.exe > pipe
 
